@@ -27,8 +27,7 @@ return `╔╦══• •✠•❀•✠ • •══╦╗
 ╟➤ping
 ╟➤destrava
 ╟➤blocklist
-╟➤blacklist
-╟➤criador
+╟➤Black list 
 ╟➤toimg ❮ᶜᵃᵖᵗⁱᵒⁿ, ʳᵉᵖˡʸ ⁱᵐᵍ❯
 ╽┷╼❥
 
