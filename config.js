@@ -37,7 +37,7 @@ const cr = '𝑲𝑰𝑹𝑨 𝑾𝑨𝑹么\n'
 const prefix = '/' 
 // prefixo
 
-const blockedmsg = ''
+const blockedmsg = '*Você Está Bloqueado Não Posso Lhe Obedece'
 // mensagem quando alguem bloqueado solicita um comando
 
 const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
