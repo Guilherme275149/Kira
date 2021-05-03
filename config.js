@@ -98,17 +98,17 @@ const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a 
 
 const botlindo = 'Bakaaaa 😣😣'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
-const botfeio = 'Tu parece um sirgueijo, um caranguejo amassado 😡'
-const cadebot = 'Me chamou onii-chan 👉👈?'
-const botfdp = 'Te foder rapaz, te deitar na porrada quando tiver dormindo'
+const botfeio = 'Feio E Você O Filho Da Puta 😡'
+const cadebot = 'Me chamou 👉👈?'
+const botfdp = 'Filho Da Puta É Você Seu Mendigo Vai Procura Oque Fazer Seu Merda'
 const botgostoso = 'Arigato go sai masu 😳👉👈'
 const botfofo = 'Arigato go sai masu 😳👉👈'
-const botbaianor = 'Convidei sua placa-mãe pra minha rede seu corno'
-const botcorno = 'Vai te foder, jogador de ff, comprador de pack do pézinho'
-const botputa = 'Senhora sua mãe 😡'
-const botgay = 'Falou o manja rola 😡'
-const botviado = 'Falou o manja rola 😡'
-const numbotfeio = 'senhora sua mãe 😡'
+const botbaianor = 'Convidei Sua Mãe Pra Minha Rede Seu Corno'
+const botcorno = 'Corno É Seu Pai Tranzei Com Sua Mãe Ontem Foi Mó Bom Slk😈'
+const botputa = 'Puta É Sua Mãe Aquela Vadia 😡'
+const botgay = 'Seu Pai Aquele Arrombado 😡'
+const botviado = 'Já Falei Que Seu Pai cansa Não? 😡'
+const numbotfeio = 'Sério? Acha Um Argumento Melhor Se Você Que Mim Atinge😡'
 // KEYS
 
 // MENSAGENS DE EXCLUSIVIDADE
