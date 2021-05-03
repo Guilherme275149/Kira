@@ -23,12 +23,12 @@ const byemsgimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname) => {
-    return `Seja bem-vindo ${numero}\n\nAo menu do 𝑲𝑰𝑹𝑨 𝑾𝑨𝑹么`
+    return `Seja bem-vindo ${numero}\n\nAo menu do KIRA WAR`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const apikeyimgbb = 'be005dc1ad1141fec34807fb4847abcc'
+const apikeyimgbb = '1eb4ea79f7e4eef8241d5bdb054adc01'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
 const cr = '𝑲𝑰𝑹𝑨 𝑾𝑨𝑹么\n' 
