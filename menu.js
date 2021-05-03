@@ -47,13 +47,6 @@ return `╔╦══• •✠•❀•✠ • •══╦╗
 ╟➤macaco
 ╽┷╼❥
 
-┏ 「Menu Roleta Russa」
-╟➤roletarussahard
-╟➤roletarussamed
-╟➤roletarussaeasy
-╟➤roletarussapac
-╽┷╼❥
-
 
 ┏   「 Menu Editar Videos 」
 ╟➤bold ❮ᵗˣᵗ❯
